@@ -1,0 +1,652 @@
+{
+  "auth": {
+    "otpLogin": "OTP Login",
+    "verifyOTP": "Verify OTP",
+    "login": "Login",
+    "signUp": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "name": "Name",
+    "enterEmail": "Enter your email",
+    "enterPassword": "Enter your password",
+    "enterName": "Enter your name",
+    "enterOTP": "Enter OTP Code",
+    "otpSent": "We've sent a 6-digit OTP code to your email. Please enter it below.",
+    "otpExpiresIn": "OTP expires in",
+    "otpExpired": "OTP has expired",
+    "resendOTP": "Resend OTP",
+    "resendIn": "Resend in",
+    "sendOTP": "Send OTP",
+    "verifyOTPButton": "Verify OTP",
+    "backToEmailPassword": "Back to Email/Password",
+    "enterCredentials": "Enter your email and password to receive OTP",
+    "enterOTPCode": "Enter the OTP code sent to your email",
+    "welcomeBack": "Welcome back! Please login to continue",
+    "createAccount": "Create your account to get started",
+    "fillAllFields": "Please fill in all fields",
+    "enterUsernamePassword": "Please enter username and password",
+    "enterValidOTP": "Please enter a valid 6-digit OTP code",
+    "invalidOTP": "Invalid OTP",
+    "wrongOTP": "The OTP code you entered is incorrect. Please check and try again.",
+    "loginFailed": "Login failed. Please check your credentials.",
+    "signupFailed": "Signup failed",
+    "otpSentSuccess": "OTP has been sent. Please check your email and enter the OTP code.",
+    "otpResentSuccess": "OTP has been resent. Please check your email.",
+    "resendFailed": "Failed to resend OTP. Please try again.",
+    "invalidEmailPassword": "Invalid email or password. Please check your credentials.",
+    "userNotFound": "User not found. Please check your email address.",
+    "tooManyAttempts": "Too many login attempts. Please wait a moment and try again.",
+    "serverError": "Server error. Please try again later.",
+    "networkError": "Network error. Please check your internet connection.",
+    "dontHaveAccount": "Don't have an account? Sign Up",
+    "alreadyHaveAccount": "Already have an account? Login",
+    "or": "OR",
+    "createNewAccount": "Create New Account",
+    "backToLogin": "Back to Login"
+  },
+  "onboarding": {
+    "explore": "Professional",
+    "ourCommunity": "Accreditation for Lawyers",
+    "exploreSubtitle": "A program by the Saudi Bar Association for legal practitioners and lawyers, establishing a unified national framework ensuring the minimum knowledge and skills required for legal practice and consultations",
+    "setYour": "Program",
+    "ownGoal": "Objectives",
+    "goalSubtitle": "Protecting the profession from malpractice, increasing national competency, and bridging the gap between academic qualification and professional practice to build legal knowledge",
+    "completeFull": "Platform",
+    "course": "Features",
+    "courseSubtitle": "Continuous knowledge development empowering legal professionals through Saudi regulatory studies, with professional legal accreditation aligned with the best international standards and practices"
+  },
+  "settings": {
+    "settings": "Settings",
+    "language": "Language",
+    "selectLanguage": "Select Language",
+    "english": "English",
+    "arabic": "Arabic",
+    "theme": "Theme",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "pushNotifications": "Push Notifications",
+    "courseUpdates": "Course Updates",
+    "supportTicketResponse": "Support Ticket Response",
+    "latestUpdates": "Latest Updates"
+  },
+  "profile": {
+    "profile": "Profile",
+    "enrolled": "Enrolled",
+    "certificates": "Certificates",
+    "enrolledCourses": "Enrolled Courses",
+    "enrolledSubtitle": "Explore all your enrolled courses",
+    "leaderboard": "Course Leaderboard",
+    "leaderboardSubtitle": "See your position in the leaderboard",
+    "myProfile": "My Profile",
+    "myProfileSubtitle": "Edit your personal information",
+    "myTickets": "My Tickets",
+    "myTicketsSubtitle": "Explore all your support tickets",
+    "supportCenter": "Support Center",
+    "supportCenterSubtitle": "Explore our fastest support center",
+    "notifications": "Notifications",
+    "notificationsSubtitle": "Explore important notifications",
+    "settings": "Settings",
+    "settingsSubtitle": "Control the app as per your preferences",
+    "privacyPolicy": "Privacy & Policy",
+    "privacyPolicySubtitle": "Explore our privacy and policy",
+    "generalSection": "General",
+    "preferencesSection": "Preferences",
+    "rateUs": "Rate our app",
+    "rateUsSubtitle": "Share your feedback about our app",
+    "logout": "Logout",
+    "logoutSubtitle": "Logging out from your account",
+    "logoutConfirm": "Yes, Logout",
+    "logoutConfirmTitle": "Logout",
+    "logoutConfirmMessage": "Are you sure you want to logout? You will need to login again to access your account.",
+    "loggingOut": "Logging out...",
+    "cancel": "Cancel",
+    "confirmLogout": "Logout"
+  },
+  "home": {
+    "hi": "Hi",
+    "letsStartLearning": "Let's start Learning",
+    "searchPlaceholder": "Search for Topics,Courses",
+    "popular": "Popular",
+    "courses": "Courses",
+    "tagline": "Our comprehensive project based courses",
+    "noCourses": "No courses available yet!"
+  },
+  "enrolled": {
+    "title": "My Courses",
+    "course": "Course",
+    "modules": "Modules",
+    "completed": "Completed",
+    "inProgress": "In Progress",
+    "totalCourses": "Total",
+    "completedCount": "Completed",
+    "inProgressCount": "Active",
+    "emptyTitle": "No Enrolled Courses",
+    "emptySubtitle": "You haven't enrolled in any courses yet. Browse available courses and start your learning journey!",
+    "searchPlaceholder": "Search courses...",
+    "emptyFilterTitle": "No Courses Found",
+    "emptyFilterSubtitle": "No courses match this filter. Try selecting a different category.",
+    "openCourse": "Continue Learning"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Back",
+    "next": "Next"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "back": "Back",
+    "all": "All",
+    "courses": "Courses",
+    "resources": "Resources",
+    "supportCenter": "Support Center"
+  },
+  "support": {
+    "title": "Tell us how can we help 👋",
+    "subtitle": "We are always available to provide you with the best services we can",
+    "openTickets": "Open Tickets",
+    "openTicketsSubtitle": "Continue with your open tickets",
+    "chatNow": "Support Chat",
+    "chatNowSubtitle": "Chat with our support team",
+    "ticketTitle": "Ticket Title",
+    "ticketDetails": "Ticket Details",
+    "createTicket": "Create Ticket",
+    "callUs": "Call Us",
+    "emailUs": "Email Us",
+    "chat": "Chat",
+    "chatSubtitle": "Start a conversation now!",
+    "faq": "FAQ's",
+    "faqSubtitle": "Find intelligent answers instantly",
+    "emailSubtitle": "Get solution directly to inbox",
+    "ticketTitlePlaceholder": "I am encountering **** this problem",
+    "ticketDetailsPlaceholder": "Problem explanation with details..."
+  },
+  "faq": {
+    "title": "FAQ",
+    "searchPlaceholder": "Search questions...",
+    "noResults": "No Results",
+    "noResultsSubtitle": "Try different search keywords",
+    "allCategories": "All",
+    "categories": {
+      "0": "About the Program / Registration",
+      "1": "About the Platform",
+      "2": "About Accreditation",
+      "3": "About Offered Programs",
+      "4": "About the Accreditation Exam"
+    },
+    "questions": [
+      {
+        "category": 0,
+        "question": "What is the Saudi Professional Accreditation Program for Legal Practitioners?",
+        "answer": "It is a program offered by the Saudi Bar Association that establishes a unified national framework for legal practitioners, ensuring the minimum level of knowledge and skills required to practice law and legal consultancy."
+      },
+      {
+        "category": 0,
+        "question": "What are the program's objectives?",
+        "answer": "• Elevate the Kingdom's legal ranking internationally regarding licensing for legal practice.\n• Ensure continuous qualification through training, guaranteeing knowledge continuity and beneficiary protection.\n• Raise compliance with the legal practice system and related regulations.\n• Obtain comprehensive databases enabling decision-makers to issue legislation.\n• Protect the profession from malpractice and increase national competency rates.\n• Enhance regulatory efficiency over practitioners."
+      },
+      {
+        "category": 0,
+        "question": "What are the benefits of registering in the program?",
+        "answer": "Accredited practitioners will be accepted by international professional bodies according to relevant agreements. The professional accreditation is evaluated locally and internationally by educational institutions and governmental bodies, adding credibility and reliability."
+      },
+      {
+        "category": 0,
+        "question": "What are the program stages?",
+        "answer": "• Registration and Admission: The practitioner must meet all specified admission requirements.\n• Legal and Regulatory Qualification: Divided into 4 levels, each consisting of 6 training modules.\n• Final Exam and Personal Interview: A comprehensive computerized exam followed by a specialized committee interview.\n• Accreditation: Issuance of the professional accreditation certificate by the Saudi Bar Association."
+      },
+      {
+        "category": 0,
+        "question": "What are the admission requirements for the program?",
+        "answer": "The applicant must hold a recognized degree in Sharia or Law from a Saudi university or its equivalent from outside the Kingdom."
+      },
+      {
+        "category": 0,
+        "question": "Is the program limited to a specific gender?",
+        "answer": "The Saudi Professional Accreditation Program for Legal Practitioners is available to all legal practitioners, both male and female."
+      },
+      {
+        "category": 0,
+        "question": "Is the program limited to legal practitioners?",
+        "answer": "The program is directed at lawyers, legal practitioners, and graduates of law and Sharia."
+      },
+      {
+        "category": 0,
+        "question": "Is the program limited to Saudi nationals?",
+        "answer": "The program is available to both Saudis and foreigners regardless of place of residence."
+      },
+      {
+        "category": 0,
+        "question": "How long does the program take?",
+        "answer": "The program duration is 6 months from the date of registration."
+      },
+      {
+        "category": 0,
+        "question": "Are there fees for the program?",
+        "answer": "The registration fee for the Saudi Professional Accreditation Program for Legal Practitioners is 4,600 Saudi Riyals."
+      },
+      {
+        "category": 0,
+        "question": "Can I start the program immediately after registration?",
+        "answer": "You can start the program immediately after registration and payment of fees."
+      },
+      {
+        "category": 1,
+        "question": "Does the platform require a specific browser?",
+        "answer": "All browsers (Google Chrome, Internet Explorer, etc.) are suitable and can be used to browse the Saudi Professional Accreditation platform."
+      },
+      {
+        "category": 1,
+        "question": "Can I access the platform via mobile phone?",
+        "answer": "You can access the platform through Safari or Google Chrome browsers on smart mobile devices."
+      },
+      {
+        "category": 1,
+        "question": "Where can I find the training materials on the platform?",
+        "answer": "You can find the training materials by clicking on your profile and selecting (My Programs) or searching for them using the quick search feature at the top of the page."
+      },
+      {
+        "category": 3,
+        "question": "Can I start the training materials in random order?",
+        "answer": "You must start sequentially so that the program allows you to proceed to the next one in order."
+      },
+      {
+        "category": 3,
+        "question": "Can I skip a module without finishing all the electronic content?",
+        "answer": "You can skip the training module by passing its promotion test."
+      },
+      {
+        "category": 3,
+        "question": "What is the promotion test?",
+        "answer": "It is an optional test to evaluate the practitioner's knowledge of the course content before starting it, allowing them to skip the course and move to the next one if they score above 80%."
+      },
+      {
+        "category": 3,
+        "question": "How can I confirm that I passed the training program?",
+        "answer": "You can confirm you passed the training program when you achieve a completion rate of 100%."
+      },
+      {
+        "category": 3,
+        "question": "What is the end-of-program test?",
+        "answer": "A test that measures the practitioner's understanding of each program after completion, conducted automatically through the platform from any convenient location."
+      },
+      {
+        "category": 3,
+        "question": "What should I do if I don't achieve the required score in the end-of-program test?",
+        "answer": "You must re-study the program content and take the test again."
+      },
+      {
+        "category": 3,
+        "question": "Can I join more than one program at the same time?",
+        "answer": "You cannot join more than one program at the same time. You must complete the current program before registering for the next one."
+      },
+      {
+        "category": 3,
+        "question": "I can't move to the next program despite completing all requirements. What should I do?",
+        "answer": "If the completion rate shows 67% despite completing all requirements, please refresh the page and log in again."
+      },
+      {
+        "category": 1,
+        "question": "How can I contact the platform's technical support team?",
+        "answer": "You can contact the technical support team directly through the live chat at the bottom right of the page."
+      },
+      {
+        "category": 1,
+        "question": "How can I update my personal information?",
+        "answer": "You can update your personal information by logging into the accreditation platform, going to your profile, adding the information you want to update, and clicking Save."
+      },
+      {
+        "category": 1,
+        "question": "How can I recover my account password?",
+        "answer": "Log into the accreditation platform, click on Login, then click on (Forgot Password?), enter your email, and you will receive a message allowing you to reset your password."
+      },
+      {
+        "category": 2,
+        "question": "What are the requirements for obtaining accreditation?",
+        "answer": "• Register in the program.\n• Pass all electronic programs on the platform.\n• Pass the final exam.\n• Pass the personal interview."
+      },
+      {
+        "category": 2,
+        "question": "Which entity is responsible for granting the accreditation certificate?",
+        "answer": "The Saudi Bar Association is the entity responsible for granting Saudi Professional Accreditation certificates for legal practitioners."
+      },
+      {
+        "category": 1,
+        "question": "What is Tadarab platform?",
+        "answer": "In the era of digital transformation in Saudi Arabia, Tadarab platform was established to provide technological solutions enabling training organizations to grow by converting their training content into electronic training programs."
+      },
+      {
+        "category": 1,
+        "question": "Who can benefit from the platform?",
+        "answer": "• Accredited training institutes wanting to manage their remote training.\n• Trainees interested in attending courses on the platform.\n• Organizations wanting to train their employees with dedicated courses."
+      },
+      {
+        "category": 1,
+        "question": "What training fields does the platform support?",
+        "answer": "All types of fields and training methods are supported."
+      },
+      {
+        "category": 1,
+        "question": "How can I register on the platform as a trainee?",
+        "answer": "Once you join any course, your account is automatically registered with the same entered information."
+      },
+      {
+        "category": 1,
+        "question": "How can I log in?",
+        "answer": "From the login page, enter your email and password."
+      },
+      {
+        "category": 1,
+        "question": "I forgot my password?",
+        "answer": "From the login page, click on (Forgot password?) and enter your email. You will receive an email to reset your password."
+      },
+      {
+        "category": 1,
+        "question": "How can I edit my personal information?",
+        "answer": "After logging in, go to your profile page where you can edit all your information."
+      },
+      {
+        "category": 3,
+        "question": "How do I register for a training program?",
+        "answer": "After selecting a suitable booking date, click the Join button and fill in the required information. Upon completion, you will be automatically enrolled and receive a booking confirmation email."
+      },
+      {
+        "category": 3,
+        "question": "Can I register for more than one program?",
+        "answer": "Yes, you can register for multiple programs at times that suit you."
+      },
+      {
+        "category": 3,
+        "question": "What language are the programs offered in?",
+        "answer": "We support both Arabic and English, and each institute can determine the language in which they want to offer their program."
+      },
+      {
+        "category": 1,
+        "question": "What payment methods are accepted?",
+        "answer": "Mada / Visa."
+      },
+      {
+        "category": 1,
+        "question": "I didn't receive a confirmation or reminder email from the platform?",
+        "answer": "If you registered with a work email, please contact your IT department to allow messages to reach your inbox. If registered with a personal email, contact technical support directly. Reminder messages are sent one day before the program starts."
+      },
+      {
+        "category": 1,
+        "question": "What browsers are suitable for using Tadarab platform?",
+        "answer": "We recommend using Chrome or Firefox for the best experience."
+      },
+      {
+        "category": 1,
+        "question": "Can I use the platform from a phone or tablet?",
+        "answer": "Of course, the platform supports all interfaces and devices. However, we recommend using a laptop for a better training experience as some content may not work properly on small screens."
+      },
+      {
+        "category": 4,
+        "question": "What is the mechanism of the final accreditation exam?",
+        "answer": "• The final exam is a comprehensive computerized test covering all levels.\n• The exam date is set after completing all training programs.\n• A minimum score of 80% is required to pass.\n• The trainee must comply with exam policies and instructions.\n• The trainee may postpone the exam with an acceptable excuse at least 48 hours in advance.\n• If absent or failing, a first retry is granted for 600 SAR.\n• If the first retry is not passed, a second retry is granted for the same fee.\n• If all attempts are exhausted, the trainee is excluded and must register as a new trainee."
+      }
+    ]
+  },
+  "courses": {
+    "about": "About",
+    "lessons": "Lessons",
+    "reviews": "Reviews",
+    "aboutCourse": "About course",
+    "showMore": "Show More",
+    "showLess": "Show Less",
+    "students": "Students",
+    "overview": "Overview",
+    "qa": "Q&A",
+    "noReviews": "No reviews yet",
+    "beFirstToReview": "Be the first to review this course",
+    "askQuestion": "Ask a question..."
+  },
+  "certSteps": {
+    "header": {
+      "title": "General Accreditation",
+      "subtitle": "Includes 23 diverse training programs on procedural rules and documents related to the legal practice measures"
+    },
+    "nav": {
+      "heading": "Steps to get the program",
+      "subheading": "Learn about the stages of Accreditation program",
+      "unavailable": "You have to finish previous step first"
+    },
+    "statuses": {
+      "passed": "Passed",
+      "pending": "On approval",
+      "closed": "Closed",
+      "done": "Done",
+      "approved": "Approved",
+      "declined": "Declined"
+    },
+    "actions": {
+      "continue": "Continue",
+      "book": "Book",
+      "save": "Save",
+      "submit": "Submit",
+      "startNow": "Start now",
+      "startTest": "Start the exam",
+      "getCertificate": "Get certificate",
+      "continueToCourses": "Continue to courses",
+      "uploadCertificate": "Upload certificate",
+      "cancel": "Cancel",
+      "reset": "Reset"
+    },
+    "payment": {
+      "heading": "Payment verification",
+      "successHeading": "You have booked the course!",
+      "successSubtitle": "Everything is fine, you can continue to qualification approval step.",
+      "errorHeading": "You have to book the course first",
+      "errorSubtitle": "You can book the course clicking on the right button."
+    },
+    "certificates": {
+      "heading": "Attach the academic qualification",
+      "subtitle": "Attach your academic qualification to be verified",
+      "successHeading": "Your certificate is approved!",
+      "successSubtitle": "You can go to the next step",
+      "uploadTitle": "Upload certificate",
+      "uploadMessage": "You will be notified when the qualification is accepted or rejected",
+      "uploadLabel": "Drop files here!",
+      "maxSize": "Maximum file size 10 MB",
+      "declined": "Unfortunately, the qualification got declined",
+      "unsaved": "You have unsaved changes."
+    },
+    "levels": {
+      "heading": "Study the courses",
+      "subtitle": "You must finish all the levels",
+      "successHeading": "Congratulations on finishing all programmes",
+      "successSubtitle": "You can go to the next step",
+      "level1": "Level 1",
+      "level2": "Level 2",
+      "level3": "Level 3",
+      "level4": "Level 4",
+      "courses": "Courses",
+      "course": "Course",
+      "modules": "Modules"
+    },
+    "test": {
+      "heading": "Accreditation Exam",
+      "successHeading": "Congratulation on passing the final exam",
+      "successSubtitle": "Now you are able to get the Accreditation program certificate!",
+      "bookTitle": "Submit time",
+      "bookSubtitle": "In case of delay of 10 minutes the appointment will be cancelled and you must book a new appointment",
+      "selectDate": "Select the appropriate date",
+      "reserved": "Reserved appointments",
+      "reservedSubtitle": "Here you can manage all the appointments you reserved"
+    },
+    "accreditation": {
+      "heading": "Accreditation certificate",
+      "formHeading": "Complete information about yourself",
+      "formSubtitle": "We need both arabic and english versions of your name to generate certificate. Please, be careful with it because it will be displayed in your certificate.",
+      "arabicName": "Arabic name (of three syllables)",
+      "englishName": "English name (of three syllables)",
+      "successHeading": "Congratulations! You've completed the General Accreditation program",
+      "successSubtitle": "Certificate link will be expired in 5 minutes",
+      "yourCertificate": "Your certificate"
+    }
+  },
+  "editProfile": {
+    "title": "Edit Profile",
+    "personalInfo": "Personal Information",
+    "name": "Full Name",
+    "namePlaceholder": "Enter your full name",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email address",
+    "birthday": "Date of Birth",
+    "birthdayPlaceholder": "Select your date of birth",
+    "selectBirthday": "Select Date of Birth",
+    "tapToChange": "Tap to change photo",
+    "saveChanges": "Save Changes",
+    "advancedSettings": "More Account Settings",
+    "accountSettings": "Account Settings",
+    "nameRequired": "Name is required",
+    "emailRequired": "Email is required",
+    "savedSuccess": "Profile updated successfully!",
+    "saveFailed": "Failed to save profile. Please try again.",
+    "photoPermission": "Camera roll permission is required to change your photo.",
+    "successTitle": "Profile Updated!",
+    "successMessage": "Your profile information has been saved successfully.",
+    "done": "Done"
+  },
+  "catalog": {
+    "title": "Courses",
+    "coursesCount": "courses",
+    "searchPlaceholder": "Search courses...",
+    "all": "All",
+    "free": "Free",
+    "sar": "SAR",
+    "modules": "modules",
+    "noResults": "No Results Found",
+    "noResultsSubtitle": "Try adjusting your search or filter to find what you're looking for.",
+    "emptyTitle": "No Courses Available",
+    "emptySubtitle": "There are no courses available at the moment. Please check back later.",
+    "openCourse": "View Course",
+    "completed": "Completed"
+  },
+  "cert": {
+    "title": "Certification Registration",
+    "personalData": "Personal Data",
+    "personalDataSubtitle": "Enter your identity information to get started",
+    "verification": "Verification",
+    "verificationSubtitle": "Verify your identity and select your specialization",
+    "accountData": "Account Data",
+    "accountDataSubtitle": "Set up your account credentials",
+    "identityType": "Select Identity Type",
+    "saudiCitizen": "Saudi Citizen / Resident",
+    "foreign": "Foreign",
+    "nationalId": "National ID / Iqama Number",
+    "birthDate": "Birth Date",
+    "selectBirthDate": "Select your birth date",
+    "absherCode": "Verification Code (Absher)",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "unknown": "Unknown",
+    "name": "Name",
+    "degreeType": "Bachelor's Degree Type",
+    "law": "Law",
+    "shariah": "Shariah",
+    "email": "Email",
+    "repeatEmail": "Confirm Email",
+    "password": "Password",
+    "repeatPassword": "Confirm Password",
+    "country": "Country Code",
+    "mobileNumber": "Mobile Number",
+    "reasonForJoining": "Reason for Joining",
+    "selectReason": "Select a reason",
+    "termsText1": "I agree to the",
+    "termsLink1": "Privacy Policy",
+    "termsText2": "and",
+    "termsLink2": "Terms of Service",
+    "termsText3": "of this platform.",
+    "check": "Verify & Continue",
+    "previous": "Previous",
+    "confirmRegistration": "Confirm Registration",
+    "success": "Success",
+    "registrationSuccess": "Your certification registration has been submitted successfully!",
+    "reasons": {
+      "professionalDev": "Professional Development",
+      "promotion": "Promotion at Work",
+      "jobRequirement": "Job Appointment Requirement",
+      "jobPreference": "Job Preference Requirement",
+      "jobSearch": "Job Search",
+      "other": "Other"
+    },
+    "retrievedInfo": "Retrieved Information",
+    "foreignModalTitle": "Registration Instructions for Non-Saudis",
+    "foreignModalIntro": "To complete registration in the Saudi professional accreditation program for non-Saudis, please follow the steps below before uploading your academic qualification:",
+    "foreignModalStep1Prefix": "Upload your academic qualification (Bachelor's) through the following link:",
+    "foreignModalStep1Link": "QuadraBay - CRM",
+    "foreignModalStep2": "You will receive a message with the qualification verification result.",
+    "foreignModalStep3": "Upload the verification result on the accreditation platform.",
+    "alreadyHaveAccount": "Already have an account? Login",
+    "errors": {
+      "nationalIdRequired": "National ID is required",
+      "nationalIdNumeric": "National ID must be numeric",
+      "birthDateRequired": "Birth date is required",
+      "codeRequired": "Verification code is required",
+      "genderRequired": "Please select your gender",
+      "degreeRequired": "Please select your degree type",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email",
+      "repeatEmailRequired": "Please confirm your email",
+      "emailsMismatch": "Emails do not match",
+      "passwordRequired": "Password is required",
+      "passwordMin": "Password must be at least 8 characters",
+      "repeatPasswordRequired": "Please confirm your password",
+      "passwordsMismatch": "Passwords do not match",
+      "phoneRequired": "Phone number is required",
+      "phoneInvalid": "Please enter a valid phone number (7-16 digits)",
+      "reasonRequired": "Please select a reason for joining",
+      "termsRequired": "You must accept the terms and conditions",
+      "verificationFailed": "Verification failed. Please try again.",
+      "submitFailed": "Registration failed. Please try again.",
+      "invalidIdOrBirthDate": "Invalid National ID or birth date",
+      "invalidCode": "Invalid verification code",
+      "duplicateEmail": "This email is already registered. Please use a different one."
+    }
+  },
+  "tour": {
+    "title": "Accreditation Journey",
+    "subtitle": "Learn about the 5 steps to get your accreditation certificate",
+    "start": "Start Tour",
+    "next": "Next",
+    "prev": "Previous",
+    "finish": "Start Your Journey",
+    "skip": "Skip",
+    "stepOf": "of",
+    "steps": [
+      {
+        "title": "Program Payment",
+        "description": "The first step is to register and pay for the accreditation program. Your account will be activated automatically after payment.",
+        "icon": "card-outline"
+      },
+      {
+        "title": "Upload Qualification",
+        "description": "Upload a copy of your academic qualification (Bachelor's or higher) in Law or Sharia. It will be reviewed and approved.",
+        "icon": "document-attach-outline"
+      },
+      {
+        "title": "Study Training Programs",
+        "description": "Complete all training programs across 4 levels. Each level contains a set of specialized courses you need to finish.",
+        "icon": "library-outline"
+      },
+      {
+        "title": "Final Accreditation Exam",
+        "description": "After completing all courses, book an appointment for the final accreditation exam and pass it successfully.",
+        "icon": "school-outline"
+      },
+      {
+        "title": "Accreditation Certificate",
+        "description": "Congratulations! Enter your name in Arabic and English and receive your official professional accreditation certificate.",
+        "icon": "ribbon-outline"
+      }
+    ]
+  }
+}

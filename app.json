@@ -1,0 +1,62 @@
+{
+  "expo": {
+    "name": "SASL",
+    "slug": "sasl",
+    "version": "3.0.0",
+    "orientation": "portrait",
+    "icon": "./android/app/src/main/res/drawable-mdpi/splashscreen_image.png",
+    "scheme": "sasl",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/splashscreen_image.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#e8f4f8"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sasl.certificate",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./android/app/src/main/res/drawable-mdpi/splashscreen_image.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.sasl.certificate",
+      "googleServiceFiles": "./android/app/google-services.json"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-secure-store",
+      "react-native-iap",
+      [
+        "@react-native-google-signin/google-signin",
+        {
+          "iosUrlScheme": "com.googleusercontent.apps.500604689956-gv4jqon1uv37m2ieggd1ijr1jkrbblmt"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d19fa0a3-a83e-4b32-9059-4cd976b029a1"
+      },
+      "router": {
+        "origin": false
+      }
+    },
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/d19fa0a3-a83e-4b32-9059-4cd976b029a1"
+    }
+  }
+}

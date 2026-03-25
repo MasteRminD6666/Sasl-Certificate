@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.sidebar-wrapper {
+  -ms-overflow-style: none;
+  -webkit-scrollbar {
+    display: none;
+  }
+}
+
+body {
+  overflow: auto!important;
+}
