@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "SASL",
-    "slug": "sasl",
+    "slug": "sasl-certificate",
     "version": "3.0.0",
     "orientation": "portrait",
     "icon": "./android/app/src/main/res/drawable-mdpi/splashscreen_image.png",
@@ -14,7 +14,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.sasl.certificate",
+      "bundleIdentifier": "com.sasl.certificates",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
@@ -57,6 +57,7 @@
     "runtimeVersion": "1.0.0",
     "updates": {
       "url": "https://u.expo.dev/d19fa0a3-a83e-4b32-9059-4cd976b029a1"
-    }
+    },
+    "owner": "ramizaitoun"
   }
 }
